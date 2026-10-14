@@ -1,6 +1,8 @@
 Rencana apa yang ingin di buat ?
 
 - makan 
+  * burger
+  * steak
 - minum
 - main
 - lari

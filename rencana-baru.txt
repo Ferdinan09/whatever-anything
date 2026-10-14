@@ -7,6 +7,7 @@ Rencana apa yang ingin di buat ?
   * coca-cola
   * jus mangga/mangga susu
   * mineral
+  * alpukat
 - dorong mobil
 - main
 - lari

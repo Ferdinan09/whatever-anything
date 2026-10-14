@@ -6,6 +6,7 @@ Rencana apa yang ingin di buat ?
 - minum
   * coca-cola
   * jus mangga/mangga susu
+  * mineral
 - dorong mobil
 - main
 - lari

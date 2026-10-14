@@ -4,6 +4,7 @@ Rencana apa yang ingin di buat ?
   * burger
   * steak
 - minum
+- dorong mobil
 - main
 - lari
 - tidur

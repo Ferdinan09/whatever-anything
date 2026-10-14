@@ -4,9 +4,11 @@ Rencana apa yang ingin di buat ?
   * burger
   * steak
 - minum
-  * avokado
+  * coca-cola
   * jus mangga/mangga susu
-  * teh obeng
+  * mineral
+- dorong mobil
 - main
 - lari
 - tidur
+- liburan
